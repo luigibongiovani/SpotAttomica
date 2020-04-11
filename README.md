@@ -1,2 +1,3 @@
 # SpotAttomica
- Webradio da banda Attomica
+ Webrádio da banda Attomica
+ Preparativos para a turnê europeia em 2021
